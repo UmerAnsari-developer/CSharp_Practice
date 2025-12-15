@@ -33,6 +33,7 @@ namespace PracticeProject
             Console.WriteLine("Population: " + population);
 
 
+
         }
         internal void inputValuesDemo() { 
             Console.WriteLine("Enter your name: ");
