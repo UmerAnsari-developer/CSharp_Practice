@@ -11,7 +11,10 @@ namespace PracticeProject
             //Console.WriteLine("My age is: " + age);
 
             DataTypes dt = new DataTypes();
-            dt.inputValuesDemo();
+            //dt.inputValuesDemo();
+            dt.conversionMethods();
+
+
         }
     }
 }
