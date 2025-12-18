@@ -22,7 +22,10 @@ namespace PracticeProject
             math m = new math();
             //m.mathDemo();
             StringMethods sm = new StringMethods();
-            sm.stringMethodsDemo();
+            //sm.stringMethodsDemo();
+            Conditional cs = new Conditional();
+            cs.if_switchDemo();
+            cs.loopsDemo();
 
 
         }
